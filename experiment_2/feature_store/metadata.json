@@ -1,0 +1,23 @@
+{
+    "feature_store": "Kidney Disease Feature Store",
+    "total_records": 1500,
+    "total_features": 15,
+    "feature_names": [
+        "Age",
+        "Blood_Pressure",
+        "Blood_Glucose",
+        "Creatinine",
+        "Hemoglobin",
+        "BMI",
+        "Urea",
+        "Sodium",
+        "Gender",
+        "Smoking",
+        "Diabetes",
+        "Hypertension",
+        "Kidney_Function_Index",
+        "Blood_Health_Index",
+        "Lifestyle_Risk"
+    ],
+    "storage_format": "CSV"
+}

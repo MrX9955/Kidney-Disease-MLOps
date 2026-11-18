@@ -1,7 +1,7 @@
 {
     "version": "v2",
     "dataset_name": "Kidney Disease Risk Prediction",
-    "description": "Added 500 records and introduced controlled missing values.",
+    "description": "1500 records with controlled missing values.",
     "rows": 1500,
     "columns": 13,
     "features": [
@@ -22,6 +22,6 @@
     "missing_values": 180,
     "target": "Disease_Risk",
     "file": "datasets/v2/kidney_disease_v2.csv",
-    "checksum": "5e3b66ef411a65760f288747feb0b535a602629f7e6674a7e008f90d655cf4c5",
-    "created_at": "2026-11-18T03:58:18.128109"
+    "checksum": "db179eb4df2de630322470083a07801abb0d14c25d0edd612968ad6aa1fd7b77",
+    "created_at": "2026-11-18T04:46:31.824422"
 }

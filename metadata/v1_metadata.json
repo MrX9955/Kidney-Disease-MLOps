@@ -1,7 +1,7 @@
 {
     "version": "v1",
     "dataset_name": "Kidney Disease Risk Prediction",
-    "description": "Initial dataset containing 1000 records.",
+    "description": "Initial dataset with 1000 records.",
     "rows": 1000,
     "columns": 13,
     "features": [
@@ -23,5 +23,5 @@
     "target": "Disease_Risk",
     "file": "datasets/v1/kidney_disease_v1.csv",
     "checksum": "dc672ec878b6a53e1b595e8d555535bf6eddd2ff287c437a45c72b88a4b4bbaa",
-    "created_at": "2026-11-18T03:58:18.121952"
+    "created_at": "2026-11-18T04:46:31.821786"
 }

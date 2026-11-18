@@ -32,7 +32,3 @@ data and implement dataset version management.
 SHA-256 checksums and JSON metadata
 are used to track dataset versions
 and verify dataset integrity.
-
-### Next Experiment
-Data Preprocessing, Feature Engineering
-and Feature Store.
